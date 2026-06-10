@@ -25,6 +25,8 @@ export default function App() {
           damping: 10,
           duration: 0.8
         }}
+
+        
       >
         <Section1/>
       </motion.div>
